@@ -18,6 +18,3 @@ Readme 예쁘게 꾸미기
 '''
 
 > Hello, Have a nice day!
-
-1. 치킨
-2. 찜닭
